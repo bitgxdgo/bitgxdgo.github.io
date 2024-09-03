@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
+An Ai Product Manager Focused on Psychological Counseling.
 
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My Vision: Each one of us has a personal AI Psychological Counseller 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bitgxd@gamil.com](mailto:email@domain.com)
