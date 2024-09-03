@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-An Ai Product Manager Focused on Psychological Counseling.
+An Ai Product Manager Focused on Psychological Counselor.
 
 
 ### More Information
